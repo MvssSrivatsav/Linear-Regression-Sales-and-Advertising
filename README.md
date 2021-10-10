@@ -1,4 +1,4 @@
-~Simple Linear Regression Project~
+<i>Simple Linear Regression Project</i>
 ----------------------------------
 Modelling the linear relationship between Sales and Advertising Dataset
 ------------------------------------------------------------------------      
